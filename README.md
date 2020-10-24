@@ -2,7 +2,7 @@
 
 My simple CRUD app that can add, update, or delete users.
 
-### [View the demo](https://taniarascia.github.io/react-hooks/)
+### [View the demo](https://ryandeveloper.github.io/react-hooks-crud/)
 
 ## Author
 
