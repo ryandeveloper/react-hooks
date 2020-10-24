@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-hooks-crud/static/css/main.5d55cd70.chunk.css",
+    "main.js": "/react-hooks-crud/static/js/main.59b3c6b8.chunk.js",
+    "main.js.map": "/react-hooks-crud/static/js/main.59b3c6b8.chunk.js.map",
+    "runtime-main.js": "/react-hooks-crud/static/js/runtime-main.40fe70f5.js",
+    "runtime-main.js.map": "/react-hooks-crud/static/js/runtime-main.40fe70f5.js.map",
+    "static/js/2.c07f182c.chunk.js": "/react-hooks-crud/static/js/2.c07f182c.chunk.js",
+    "static/js/2.c07f182c.chunk.js.map": "/react-hooks-crud/static/js/2.c07f182c.chunk.js.map",
+    "index.html": "/react-hooks-crud/index.html",
+    "static/css/main.5d55cd70.chunk.css.map": "/react-hooks-crud/static/css/main.5d55cd70.chunk.css.map",
+    "static/js/2.c07f182c.chunk.js.LICENSE.txt": "/react-hooks-crud/static/js/2.c07f182c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40fe70f5.js",
+    "static/js/2.c07f182c.chunk.js",
+    "static/css/main.5d55cd70.chunk.css",
+    "static/js/main.59b3c6b8.chunk.js"
+  ]
+}
